@@ -132,28 +132,28 @@ export default function Home() {
                     tag: "Sport Car",
                     date: "20 July",
                     price: "$80.00",
-                    img: "/Car2.png",
+                    img: "/car2.png",
                   },
                   {
                     name: "Koenigsegg",
                     tag: "Sport Car",
                     date: "19 July",
                     price: "$99.00",
-                    img: "/Car1.png",
+                    img: "/car1.png",
                   },
                   {
                     name: "Rolls - Royce",
                     tag: "Sport Car",
                     date: "18 July",
                     price: "$96.00",
-                    img: "/Car3.png",
+                    img: "/car3.png",
                   },
                   {
                     name: "CR - V",
                     tag: "SUV",
                     date: "17 July",
                     price: "$80.00",
-                    img: "/Car6.png",
+                    img: "/car6.png",
                   },
                 ].map((car, index) => (
                   <li key={index} className="flex items-center justify-between">
