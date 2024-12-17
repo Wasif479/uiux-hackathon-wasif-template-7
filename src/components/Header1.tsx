@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 
-export default function Header() {
+export default function Header1() {
   return (
     <div className="h-auto  w-full flex flex-wrap items-center justify-between px-4 py-4 bg-white">
       {/* Logo */}
